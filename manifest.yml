@@ -2,7 +2,7 @@
 applications:
 - name: nhcengg
   memory: 512M
-  instances: 4
+  instances: 1
   host: nhcengg
   path: ./target/pcfdemo.war
  
