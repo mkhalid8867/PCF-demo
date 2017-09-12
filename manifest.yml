@@ -1,9 +1,9 @@
 ---
 applications:
-- name: nhcmkt
+- name: nhcmkts
   memory: 1024M
   instances: 1
-  host: nhcmkt
+  host: nhcmkts
   path: ./target/pcfdemo.war
  
 
