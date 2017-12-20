@@ -2,7 +2,7 @@
 applications:
 - name: nhcapp
   memory: 1024M
-  instances: 2
+  instances: 1
   host: nhcblue
   path: ./target/pcfdemoblue.war
  
