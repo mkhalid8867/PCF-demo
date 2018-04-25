@@ -1,9 +1,9 @@
 ---
 applications:
-- name: nhcapp
+- name: praapp
   memory: 1024M
-  instances: 2
-  host: nhcblue
+  instances: 1
+  host: prablue
   path: ./target/pcfdemoblue.war
  
 
