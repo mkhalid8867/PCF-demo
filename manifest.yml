@@ -2,7 +2,7 @@
 applications:
 - name: praapp
   memory: 1024M
-  instances: 2
+  instances: 1
   host: prablue
   path: ./target/pcfdemoblue.war
  
