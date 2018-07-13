@@ -1,9 +1,9 @@
 ---
 applications:
-- name: praapp
+- name: gskapp
   memory: 1024M
   instances: 1
-  host: prablue
+  host: gskblue
   path: ./target/pcfdemoblue.war
  
 
