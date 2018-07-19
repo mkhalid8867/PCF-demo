@@ -1,6 +1,6 @@
 ---
 applications:
-- name: gskapp
+- name: gskgreen
   memory: 1024M
   instances: 1
   host: gskgreen
