@@ -3,7 +3,7 @@ applications:
 - name: gskapp
   memory: 1024M
   instances: 1
-  host: gskblue
+  host: gskgreen
   path: ./target/pcfdemoblue.war
  
 
