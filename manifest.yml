@@ -1,9 +1,9 @@
 ---
 applications:
-- name: gskmogreen
+- name: gskgreen
   memory: 1024M
   instances: 1
-  host: gskmogreen
+  host: gskgreen
   path: ./target/pcfdemogreen.war
  
 
