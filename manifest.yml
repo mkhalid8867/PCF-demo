@@ -2,7 +2,7 @@
 applications:
 - name: gskblue1
   memory: 1024M
-  instances: 1
+  instances: 2
   host: gskblue
   path: ./target/pcfdemoblue.war
  
